@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_screen_field">
     <sys_sg_screen_field action="INSERT_OR_UPDATE">
-        <data_item_field_name>opened_by.sys_updated_by</data_item_field_name>
+        <data_item_field_name>sys_updated_by</data_item_field_name>
         <description_text/>
         <description_text_field/>
         <description_text_type/>
@@ -12,18 +12,18 @@
         <screen_data_item_table>sc_req_item</screen_data_item_table>
         <sys_class_name>sys_sg_screen_field</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2021-01-25 15:14:01</sys_created_on>
-        <sys_id>770fc72b2f35201020af70682799b6d1</sys_id>
+        <sys_created_on>2021-01-25 15:21:59</sys_created_on>
+        <sys_id>98e05f6b2f35201020af70682799b60c</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>opened_by.sys_updated_by</sys_name>
+        <sys_name>sys_updated_by</sys_name>
         <sys_package display_value="Service Desk Support Mobile" source="x_504852_service_d">acad76ab2ff1201020af70682799b603</sys_package>
         <sys_policy/>
         <sys_scope display_value="Service Desk Support Mobile">acad76ab2ff1201020af70682799b603</sys_scope>
-        <sys_update_name>sys_sg_screen_field_770fc72b2f35201020af70682799b6d1</sys_update_name>
+        <sys_update_name>sys_sg_screen_field_98e05f6b2f35201020af70682799b60c</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2021-01-25 15:14:01</sys_updated_on>
+        <sys_updated_on>2021-01-25 15:21:59</sys_updated_on>
         <type>auto</type>
         <value_only>false</value_only>
     </sys_sg_screen_field>
-    <sys_translated_text action="delete_multiple" query="documentkey=770fc72b2f35201020af70682799b6d1"/>
+    <sys_translated_text action="delete_multiple" query="documentkey=98e05f6b2f35201020af70682799b60c"/>
 </record_update>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_screen_field">
+    <sys_sg_screen_field action="DELETE">
+        <data_item_field_name>opened_by.sys_updated_by</data_item_field_name>
+        <description_text/>
+        <description_text_field/>
+        <description_text_type/>
+        <field_name/>
+        <hidden>false</hidden>
+        <order>1100</order>
+        <record_id_field/>
+        <screen display_value="Details">e1ddb22f2ff1201020af70682799b644</screen>
+        <screen_data_item_table>sc_req_item</screen_data_item_table>
+        <sys_class_name>sys_sg_screen_field</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-25 15:14:01</sys_created_on>
+        <sys_id>770fc72b2f35201020af70682799b6d1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>opened_by.sys_updated_by</sys_name>
+        <sys_package display_value="Service Desk Support Mobile" source="x_504852_service_d">acad76ab2ff1201020af70682799b603</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Service Desk Support Mobile">acad76ab2ff1201020af70682799b603</sys_scope>
+        <sys_update_name>sys_sg_screen_field_770fc72b2f35201020af70682799b6d1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-25 15:14:01</sys_updated_on>
+        <type>auto</type>
+        <value_only>false</value_only>
+    </sys_sg_screen_field>
+    <sys_translated_text action="DELETE" query="documentkey=770fc72b2f35201020af70682799b6d1"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Service Desk Support Mobile">acad76ab2ff1201020af70682799b603</application>
+        <file_path/>
+        <instance_id>e722e4b2db5d1c50a667cac505961941</instance_id>
+        <instance_name>tac00293</instance_name>
+        <name>sys_sg_screen_field_770fc72b2f35201020af70682799b6d1</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_screen_field"><sys_sg_screen_field action="INSERT_OR_UPDATE"><data_item_field_name>opened_by.sys_updated_by</data_item_field_name><description_text/><description_text_field/><description_text_type/><field_name/><hidden>false</hidden><order>1100</order><record_id_field/><screen display_value="Details">e1ddb22f2ff1201020af70682799b644</screen><screen_data_item_table>sc_req_item</screen_data_item_table><sys_class_name>sys_sg_screen_field</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-01-25 15:14:01</sys_created_on><sys_id>770fc72b2f35201020af70682799b6d1</sys_id><sys_mod_count>0</sys_mod_count><sys_name>opened_by.sys_updated_by</sys_name><sys_package display_value="Service Desk Support Mobile" source="x_504852_service_d">acad76ab2ff1201020af70682799b603</sys_package><sys_policy/><sys_scope display_value="Service Desk Support Mobile">acad76ab2ff1201020af70682799b603</sys_scope><sys_update_name>sys_sg_screen_field_770fc72b2f35201020af70682799b6d1</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-01-25 15:14:01</sys_updated_on><type>auto</type><value_only>false</value_only></sys_sg_screen_field><sys_translated_text action="delete_multiple" query="documentkey=770fc72b2f35201020af70682799b6d1"/></record_update>]]></payload>
+        <payload_hash>777068771</payload_hash>
+        <record_name>opened_by.sys_updated_by</record_name>
+        <reverted_from/>
+        <source>a4ad76ab2ff1201020af70682799b606</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-25 15:14:01</sys_created_on>
+        <sys_id>370fc72b2f35201020af70682799b6d3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1773a1be2780000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-25 15:14:01</sys_updated_on>
+        <type>Screen fields</type>
+        <update_guid>7f0fc72b9a3520101838df4fcc0480d2</update_guid>
+        <update_guid_history>7f0fc72b9a3520101838df4fcc0480d2:777068771</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-25 15:21:01</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_screen_field">sys_sg_screen_field</sys_db_object>
+        <sys_id>048986c22bf7424fa6a238771870be01</sys_id>
+        <sys_metadata>770fc72b2f35201020af70682799b6d1</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>opened_by.sys_updated_by</sys_name>
+        <sys_package display_value="Service Desk Support Mobile" source="x_504852_service_d">acad76ab2ff1201020af70682799b603</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Service Desk Support Mobile">acad76ab2ff1201020af70682799b603</sys_scope>
+        <sys_scope_delete display_value="">3e5d657f35224d9d92c435898f08e3d9</sys_scope_delete>
+        <sys_update_name>sys_sg_screen_field_770fc72b2f35201020af70682799b6d1</sys_update_name>
+        <sys_update_version display_value="sys_sg_screen_field_770fc72b2f35201020af70682799b6d1">370fc72b2f35201020af70682799b6d3</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-25 15:21:01</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
