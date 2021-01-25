@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="Edit Button (Incident)">d5ddb22f2ff1201020af70682799b611</button>
+        <item_parameter display_value="Incident priority">51ddb22f2ff1201020af70682799b603</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-25 13:58:46</sys_created_on>
+        <sys_id>19ddb22f2ff1201020af70682799b62c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>51ddb22f2ff1201020af70682799b603</sys_name>
+        <sys_package display_value="Service Desk Support Mobile" source="x_504852_service_d">acad76ab2ff1201020af70682799b603</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Service Desk Support Mobile">acad76ab2ff1201020af70682799b603</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_19ddb22f2ff1201020af70682799b62c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-25 13:58:46</sys_updated_on>
+        <ui_parameter display_value="Priority">91ddb22f2ff1201020af70682799b614</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>

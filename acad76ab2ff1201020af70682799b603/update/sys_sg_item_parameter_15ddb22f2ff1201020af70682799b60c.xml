@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_parameter">
+    <sys_sg_item_parameter action="INSERT_OR_UPDATE">
+        <default_value/>
+        <name>Incident location</name>
+        <parent>59ddb22f2ff1201020af70682799b600</parent>
+        <parent_table>sys_sg_write_back_action_item</parent_table>
+        <sys_class_name>sys_sg_item_parameter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-25 13:58:46</sys_created_on>
+        <sys_id>15ddb22f2ff1201020af70682799b60c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Incident location</sys_name>
+        <sys_package display_value="Service Desk Support Mobile" source="x_504852_service_d">acad76ab2ff1201020af70682799b603</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Service Desk Support Mobile">acad76ab2ff1201020af70682799b603</sys_scope>
+        <sys_update_name>sys_sg_item_parameter_15ddb22f2ff1201020af70682799b60c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-25 13:58:46</sys_updated_on>
+        <type>string</type>
+    </sys_sg_item_parameter>
+</record_update>

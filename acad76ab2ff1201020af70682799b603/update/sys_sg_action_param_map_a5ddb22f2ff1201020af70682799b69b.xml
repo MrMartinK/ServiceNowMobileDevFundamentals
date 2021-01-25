@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="New Button (Requested Item)">a5ddb22f2ff1201020af70682799b685</button>
+        <item_parameter display_value="Requested Item business_service">6dddb22f2ff1201020af70682799b682</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-25 13:58:47</sys_created_on>
+        <sys_id>a5ddb22f2ff1201020af70682799b69b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>6dddb22f2ff1201020af70682799b682</sys_name>
+        <sys_package display_value="Service Desk Support Mobile" source="x_504852_service_d">acad76ab2ff1201020af70682799b603</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Service Desk Support Mobile">acad76ab2ff1201020af70682799b603</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_a5ddb22f2ff1201020af70682799b69b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-25 13:58:47</sys_updated_on>
+        <ui_parameter display_value="Service">69ddb22f2ff1201020af70682799b692</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>
