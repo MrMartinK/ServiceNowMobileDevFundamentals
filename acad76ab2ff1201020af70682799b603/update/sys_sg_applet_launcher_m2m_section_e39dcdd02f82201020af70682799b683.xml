@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_m2m_section">
+    <sys_sg_applet_launcher_m2m_section action="INSERT_OR_UPDATE">
+        <applet_launcher display_value="Service Desk Support">ce28ac182f02201020af70682799b6ea</applet_launcher>
+        <order>30</order>
+        <section display_value="Critical/High On Hold">639dcdd02f82201020af70682799b680</section>
+        <sys_class_name>sys_sg_applet_launcher_m2m_section</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-27 13:43:56</sys_created_on>
+        <sys_id>e39dcdd02f82201020af70682799b683</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Service Desk Support Mobile" source="x_504852_service_d">acad76ab2ff1201020af70682799b603</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Service Desk Support Mobile">acad76ab2ff1201020af70682799b603</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_m2m_section_e39dcdd02f82201020af70682799b683</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-27 13:43:56</sys_updated_on>
+    </sys_sg_applet_launcher_m2m_section>
+</record_update>

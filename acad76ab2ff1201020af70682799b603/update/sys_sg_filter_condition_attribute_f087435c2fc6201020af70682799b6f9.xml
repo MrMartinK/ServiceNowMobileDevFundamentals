@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_filter_condition_attribute">
+    <sys_sg_filter_condition_attribute action="INSERT_OR_UPDATE">
+        <description/>
+        <name display_value="Min">ad6fcd87c7330010fc3a2aa9b8c260a0</name>
+        <sys_class_name>sys_sg_filter_condition_attribute</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-27 22:36:30</sys_created_on>
+        <sys_id>f087435c2fc6201020af70682799b6f9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ad6fcd87c7330010fc3a2aa9b8c260a0</sys_name>
+        <sys_package display_value="Service Desk Support Mobile" source="x_504852_service_d">acad76ab2ff1201020af70682799b603</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Service Desk Support Mobile">acad76ab2ff1201020af70682799b603</sys_scope>
+        <sys_update_name>sys_sg_filter_condition_attribute_f087435c2fc6201020af70682799b6f9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-27 22:36:30</sys_updated_on>
+        <value>0</value>
+    </sys_sg_filter_condition_attribute>
+    <sys_translated_text action="delete_multiple" query="documentkey=f087435c2fc6201020af70682799b6f9"/>
+</record_update>
